@@ -1,0 +1,30 @@
+ 
+  h1 {
+    color: black;
+    font-size:  30px;
+  }
+  p{
+      color: black;
+      font-size: 20px;
+  }
+  h3{
+    color: black;
+    font-size: 40px;
+    background-color: lightblue;
+      }
+
+  h3:hover{
+      background-color: violet;
+      color: aliceblue;
+
+}
+
+  HEN|h4{
+      color: black;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+
+  TRI|h4{
+    color: black;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
