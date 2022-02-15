@@ -1,30 +1,30 @@
  
-  h1 {
+  direction {
     color: black;
     font-size:  30px;
   }
-  p{
+  speech{
       color: black;
       font-size: 20px;
   }
-  h3{
+  name{
     color: black;
     font-size: 40px;
     background-color: lightblue;
       }
 
-  h3:hover{
+  direction:hover{
       background-color: violet;
       color: aliceblue;
 
 }
 
-  HEN|h4{
+  HEN{
       color: black;
       font-family: Georgia, 'Times New Roman', Times, serif;
   }
 
-  TRI|h4{
+  TRI{
     color: black;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 }
