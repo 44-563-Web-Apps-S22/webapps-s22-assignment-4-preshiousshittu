@@ -28,3 +28,12 @@
     color: black;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 }
+
+    table, th, td {
+    border: 1px solid;
+    text-align: center;
+  }
+    th {
+        color: crimson;
+        padding: 15px;
+  }
